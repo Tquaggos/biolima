@@ -1,0 +1,86 @@
+/*sintaxe
+
+seletor{
+    propriedade:valor
+}
+
+*/
+
+p{
+    color: mediumseagreen;
+}
+
+h1{
+    /* codigo de cor */
+    color: #ff5000;
+
+    /* rbg */
+    color: rgb(0, 128, 0);
+
+/* opacidade */
+    color: rgba(255, 0, 0, 0.384);
+}
+
+h2{
+    color: #772828;
+}
+
+h3{
+    color: #bdb76b;
+}
+
+p{
+    color: #000;
+    /* Altera a familia da fonte */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    /* Altera o tamanho da fonte */
+    font-size: 50px;
+
+    /* Espessura da font */
+    font-weight: 600;
+
+    /* Distância da linha */
+    line-height: 60px;
+
+    /* Transformando texto */
+    text-transform:capitalize;
+}
+
+.box{
+    /* width: 200px;
+    height: 100px; */
+    background-color: blueviolet;
+    padding: 5px 67px;
+    border: 5px dashed #000;
+    margin: 40px;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.box1{
+    
+    background-color: lightblue;
+    padding: 10p;
+    font-size: 50px;
+    font-weight: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 20px dotted #000;
+    color: gray;
+}
+
+.box2{
+    border: 5px solid #000;
+    background-color: #5cfe62;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 25px 15px 25px;
+    margin-left: 20px;
+    
+}
