@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+     
+}
+
+:root{
+    --color-white: #ffffff;
+    --color-inicio: #110D4E;
+    --color-blue: #1F97CA;
+    --color-yellow: #C8D400;
+    --color-2-blue: #023F5F;
+    --color-gray: #999494;
+    --color-meio: #F9F9F9;
+    --color-gray2: #6B6969;
+    --font-title: "Alexandria", sans-serif;
+    --font-body: "Roboto", sans-serif;
+
+}
