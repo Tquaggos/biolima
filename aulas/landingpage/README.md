@@ -6,11 +6,10 @@ Landing page criada para avaliação da materia LIMA (html e css), onde desenvel
 
 -HTML
 -CSS
--JavaScript
 
 #ESTRUTURA
 
-./relub
+./relulab
     ./assets
         ./images
     ./src
